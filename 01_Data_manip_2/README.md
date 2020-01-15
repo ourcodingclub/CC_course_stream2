@@ -1,7 +1,7 @@
 # Data manipulation 2
 Efficient data manipulation with dplyr and pipes
 
-If you've done our first [data manipulation tutorial](https://ourcodingclub.github.io/2017/01/06/data-manip-intro.html) and want to dig deeper into the `dplyr` package, this is for you!
+The follow-up to our first [data manipulation tutorial](https://ourcodingclub.github.io/2017/01/06/data-manip-intro.html), this tutorial digs deeper into the `dplyr` package. Features useful code snippets for reordering and renaming factors, ideal for producing great data visualisations! https://ourcodingclub.github.io/2017/01/06/data-manip-efficient.html
 
 #### 1. Chain together multiple lines of codes with pipes `%>%`
 
